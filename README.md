@@ -1,24 +1,101 @@
-# 💫 About Me:
-Data automation and custom workflow solutions using Python, Docker, Kubernetes Karpenter,, Dynamic Workflows Architecture, and AWS EKS. My focus is on creating scalable, cloud-native infrastructure to simplify complex data processing and automation for users, making it easier to design, deploy, and manage workflows efficiently.<br>Cloud automation, Kubernetes architecture, and open-source projects focused on workflow orchestration and automation. I enjoy working with developers who are pushing boundaries in automation, DevOps, and cloud-native technologies, contributing to the broader tech community through innovative solutions.<br>The Quantum Frontend portal, a platform where clients design data analytics workflows. We’re building tools to simplify analytics, and I’d love support in development, user experience design, and open-source contributions that enhance client engagement and workflow design capabilities.<br>Advanced Kubernetes networking and security practices, .NET Core for backend services, and AWS EKS for scalable solutions. I’m constantly exploring ways to integrate these technologies into my projects to improve automation, deployment speed, and reliability in cloud environments.<br>Kubernetes cluster management, Workflows, cloud infrastructure, or DevOps automation. I’m passionate about helping others navigate these technologies and can offer insights into designing resilient, efficient, and automated workflows in cloud-native environments.<br>In my free time, I dive into quantum computing out of curiosity, always seeking to automate processes in surprising ways. It’s my way of combining two passions—innovation and efficiency—to stay ahead in the ever-evolving tech landscape.<br><br>
+# 👋 Hi, I'm Nitin
 
+### 🧠 Building Cloud-Native Workflow Systems & Automation Platforms
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/softqube) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsuvagia) 
+I design and build **scalable workflow orchestration systems** that simplify complex data automation using **Python, Kubernetes, and cloud-native architecture**.
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nitinsuvagia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitinsuvagia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsuvagia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitinsuvagia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Currently focused on creating **developer-first platforms** that allow teams to design, deploy, and run data workflows with minimal infrastructure overhead.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nitinsuvagia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ What I Do
+
+- 🏗️ Architect **dynamic workflow systems** (DAG-based execution, automation engines)
+- ☁️ Build **cloud-native platforms** on AWS (EKS, Karpenter, scalable infra)
+- ⚙️ Develop **automation-first backends** using Python & FastAPI
+- 📦 Design **containerized systems** using Docker + Kubernetes
+- 🔄 Enable **CI/CD & DevOps automation** at scale
+- 🔐 Work on **secure, production-grade infrastructure & networking**
+
+---
+
+## 🧩 Current Focus
+
+- 🚀 **Quantum Datalytica Platform**
+  - A system where users can design and execute data workflows visually
+  - Modular “Quantum Machines” for reusable automation components
+  - Workflow orchestration powered by Kubernetes & dynamic execution engines
+
+- 🛠️ Building tools for:
+  - Workflow designers
+  - Machine developers
+  - Automation-first infrastructure
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Workflow orchestration systems
+- Developer tooling & CLI platforms
+- Kubernetes-based platforms
+- Automation & DevOps ecosystems
+- Open-source infrastructure tools
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsuvagia)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/softqube)
+
+---
+
+## 🧠 Tech Stack
+
+### 🚀 Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ⚙️ Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Data & Storage
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔄 DevOps & Infra
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nitinsuvagia&theme=dark&hide_border=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitinsuvagia&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsuvagia&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=nitinsuvagia&theme=radical&no-frame=true&margin-w=8)
+
+---
+
+## 💡 Philosophy
+
+> Build systems that **eliminate complexity**, not add to it.  
+> Automation should feel like **leverage**, not overhead.
+
+---
+
+## 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=nitinsuvagia&icon=0&color=0)](https://visitcount.itsvg.in)
